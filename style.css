@@ -183,7 +183,7 @@ select:hover {
 
 @media (max-width: 450px) {
   .header{
-    padding-top: 10px;
+    padding-top: 20px;
     min-height: 70vh;
     flex-direction: column;
   }
