@@ -1,4 +1,4 @@
-* {
+  * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -186,6 +186,10 @@ select:hover {
     padding-top: 10px;
     min-height: 70vh;
     flex-direction: column;
+  }
+
+  .header aside{
+    padding-top: 30px;
   }
 
 
