@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  background: linear-gradient(to right, #0044ff, #00fe33);
+  background: linear-gradient(to right, #ffffff, #00fe33);
   height: 70vh;
   width: 100vw;
   display: flex;
